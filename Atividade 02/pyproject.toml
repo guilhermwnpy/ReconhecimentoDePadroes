@@ -1,0 +1,10 @@
+[project]
+name = "atividade-02"
+version = "0.1.0"
+description = "Atividade 2 de Reconhecimento de Padrões turma de 2025.1 UFS"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+]
